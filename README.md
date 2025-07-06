@@ -35,7 +35,7 @@ A modern, full-stack multi-tenant blog platform built with Next.js 15, Clerk aut
 ![Organization Dashboard](public/ss2.png)
 
 ### Blog Creation Interface
-![Blog Creation](public/ss3.png)
+![Blog Interface](public/ss3.png)
 
 ## 🛠️ Tech Stack
 
